@@ -24,7 +24,7 @@ src/
 ├── Rastreable.java             Interfaz: verHistorial()
 └── Main.java                   Clase principal con la simulación
 
-# Implememtación de métodos
+# Implementación de métodos
 - registrar() registra pedidos en el historial.
 - cancelar() cancelar el pedido. (Luego de hacer el pedido se dispone de un tiempo limitado para cancelar)
 - despachar() despacha el pedido.
